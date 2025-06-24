@@ -63,4 +63,4 @@ toggleButton.MouseButton1Click:Connect(function()
 end)
 
 -- ✅ Initialize
-updateCounter(
+updateCounter()
